@@ -148,4 +148,4 @@ if st.button("Resetear"):
 
 #pip freeze > requirements.txt
 # genera el archivo requirements para el despliegue web.
-
+#etmaor workspace:  https://etmaor.github.io/streamlit_app_churn_banco/   (despliegue web)

@@ -50,7 +50,7 @@ datasets/
 # SISTEMA
 # =========================
 .DS_Store
-Thumbs.db
+Thumbs.dbpy
 
 # =========================
 # VSCODE
