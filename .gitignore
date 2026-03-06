@@ -29,7 +29,7 @@ torch_env/
 # MODELOS ML
 # =========================
 *.pkl
-*.joblib
+#*.joblib
 *.model
 *.sav
 
